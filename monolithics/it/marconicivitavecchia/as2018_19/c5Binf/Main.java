@@ -59,7 +59,7 @@ public class Main extends JFrame {
 		super.pack();
 		super.setVisible(true);
 		 
-		System.out.println("I am a monolithics application written in Java Swing.");
+		System.out.println("Yooooo....WHATS UPPPPPP??");
 		
 		
 	}
